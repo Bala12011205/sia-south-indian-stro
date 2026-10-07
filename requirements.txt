@@ -1,0 +1,7 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+pysweph==2.10.3.6
+geopy==2.4.1
+pydantic>=2.7.4
+timezonefinder==6.2.0
+pytz==2024.1
