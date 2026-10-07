@@ -1,0 +1,17 @@
+{
+    "thirukoilur": {"latitude": 11.9662, "longitude": 79.2026},
+    "tirukkoyilur": {"latitude": 11.9662, "longitude": 79.2026},
+    "chennai": {"latitude": 13.0827, "longitude": 80.2707},
+    "madurai": {"latitude": 9.9252, "longitude": 78.1198},
+    "coimbatore": {"latitude": 11.0168, "longitude": 76.9558},
+    "salem": {"latitude": 11.6643, "longitude": 78.1460},
+    "trichy": {"latitude": 10.7905, "longitude": 78.7047},
+    "tiruchirappalli": {"latitude": 10.7905, "longitude": 78.7047},
+    "tirunelveli": {"latitude": 8.7139, "longitude": 77.7567},
+    "vellore": {"latitude": 12.9165, "longitude": 79.1325},
+    "bengaluru": {"latitude": 12.9716, "longitude": 77.5946},
+    "hyderabad": {"latitude": 17.3850, "longitude": 78.4867},
+    "thiruvananthapuram": {"latitude": 8.5241, "longitude": 76.9366},
+    "pondicherry": {"latitude": 11.9416, "longitude": 79.8083},
+    "mysore": {"latitude": 12.2958, "longitude": 76.6394}
+}
